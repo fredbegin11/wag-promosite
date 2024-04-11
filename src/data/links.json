@@ -1,0 +1,13 @@
+{
+  "socials": [
+    { "label": "Facebook", "href": "https://www.facebook.com/wagmp3" },
+    { "label": "Instagram", "href": "https://www.instagram.com/wag.mp3/" }
+  ],
+  "music": [
+    { "label": "Spotify", "href": "https://open.spotify.com/artist/2z5Le04erDqhIeZDlUv3Cl?si=b6AShEuVQmOmNDTVOHWhiQ" },
+    { "label": "Apple Music", "href": "https://www.youtube.com/watch?v=NVDESrihgbk&list=OLAK5uy_kBwrDjqq9N0ocGY3wmQfvCt7JiTij6nnk" },
+    { "label": "Youtube", "href": "https://music.apple.com/us/artist/wag/1691649589" },
+    { "label": "Bandcamp", "href": "https://wagmp3.bandcamp.com/" },
+    { "label": "Deezer", "href": "https://www.deezer.com/fr/album/481640395" }
+  ]
+}
