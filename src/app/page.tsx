@@ -17,13 +17,7 @@ const Home = () => {
           )}
         >
           <div className="flex flex-col w-full items-center space-y-4 md:space-y-8">
-            <Image
-              className="rounded-full w-48 md:w-[80%] outline outline-4 outline-primary"
-              src="/band.jpg"
-              alt="Band picture"
-              width={750}
-              height={750}
-            />
+            <img className="rounded-full w-48 md:w-[80%] outline outline-4 outline-primary" src="/band.jpg" alt="Band picture" />
 
             <div className="flex flex-col items-center space-y-2 md:space-y-4">
               <a href={instagramHref} className="text-5xl lg:text-7xl underline decoration-secondary" target="_blank">
