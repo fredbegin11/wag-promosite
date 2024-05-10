@@ -1,4 +1,4 @@
-### Wag DIY Linktree 
+### Wag DIY Linktree - https://wag.band/
 
 parce qu'on est trop pauvre pour payer
 
