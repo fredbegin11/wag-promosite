@@ -1,11 +1,11 @@
-import { twMerge } from "tailwind-merge"
+import { classMerge } from "utils"
 
-export type ActionLinkProps = React.ComponentProps<"a">
+export type SectionActionLinkProps = React.ComponentProps<"a">
 
-const ActionLink = ({ className, ...rest }: ActionLinkProps) => {
+const SectionActionLink = ({ className, ...rest }: SectionActionLinkProps) => {
   return (
     <a
-      className={twMerge(
+      className={classMerge(
         "flex justify-between items-center border rounded-lg px-4 py-2 text-2xl transition-colors",
         "hover:text-black hover:bg-secondary",
         className
@@ -16,4 +16,4 @@ const ActionLink = ({ className, ...rest }: ActionLinkProps) => {
   )
 }
 
-export default ActionLink
+export default SectionActionLink
